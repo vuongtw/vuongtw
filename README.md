@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vuongtw.
+- 👋 Hi, I’m Vuong Pham. Vuong is my first name. V is my nickname.
 - 👀 I’m interested in technology advancement, problem solving & interpersonal relationship.
 - 🌱 I’m currently learning Java & Spring Boot.
 - 💞️ I’m looking to collaborate on making the world a better place.
