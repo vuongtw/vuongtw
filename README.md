@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vuongtw.
 - 👀 I’m interested in technology advancement, problem solving & interpersonal relationship.
 - 🌱 I’m currently learning Java & Spring Boot.
-<!--- - 💞️ I’m looking to collaborate on --->
+- 💞️ I’m looking to collaborate on making the world a better place.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/vuongpd)
 
 <!---
