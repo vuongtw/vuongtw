@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology advancement, problem solving & interpersonal relationship.
 - 🌱 I’m currently learning Java & Spring Boot.
 <!--- - 💞️ I’m looking to collaborate on --->
-<!--- - 📫 How to reach me ... --->
+- 📫 How to reach me: [My Linkedin](www.linkedin.com/in/vuongpd)
 
 <!---
 vuongtw/vuongtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
